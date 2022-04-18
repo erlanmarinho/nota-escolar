@@ -9,5 +9,5 @@
  - MySQL
  - Git e GitHub
 
- *Abrindo o consola você encontrará um sistema simples de nota escolar em JavaScript*
+ *Abrindo a index.html e abri consola você encontrará um sistema simples de nota escolar em JavaScript*
 
