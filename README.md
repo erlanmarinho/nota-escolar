@@ -7,7 +7,8 @@
  - NodeJS 
  - ReactJS 
  - MySQL
- - Git e GitHub
+ - Git
+ - GitHub
 
  *Abrindo o consola você encontrará um sistema simples de nota escolar em JavaScript*
 
